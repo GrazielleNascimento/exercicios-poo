@@ -19,7 +19,7 @@ public class Professor extends Pessoa {
         this.regFuncional = regFuncional;
     }
 
-    public void Salario(double salario) {
+    public void setSalario(double salario) {
         this.salario = salario;
     }
     
